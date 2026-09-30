@@ -1,0 +1,7 @@
+## Interface: 11200
+## Title: Alt Click Cooldown
+## Notes: Alt-click an action button to announce its current cooldown. Supports Blizzard UI and pfUI.
+## Author: OpenAI
+## Version: 0.5
+
+AltClickCooldown.lua
